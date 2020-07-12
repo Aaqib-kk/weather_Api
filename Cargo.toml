@@ -3,6 +3,8 @@ name = "weather"
 version = "0.1.0"
 authors = ["aaqib-kk <aqib.khan.25@iiee.edu.pk>"]
 edition = "2018"
+description = "By using this API you can check temperature of any place"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
