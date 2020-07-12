@@ -2,7 +2,7 @@
 // This crate is a library
 #![crate_type = "lib"]
 // The library is named "rary"
-#![crate_name = "weather"]
+#![crate_name = "weather_RUST_API"]
 
 #![feature(proc_macro_hygiene, decl_macro)]
 #[macro_use] extern crate rocket;

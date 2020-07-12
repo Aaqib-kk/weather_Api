@@ -1,5 +1,5 @@
 [package]
-name = "weather"
+name = "weather_RUST_API"
 version = "0.1.0"
 authors = ["aaqib-kk <aqib.khan.25@iiee.edu.pk>"]
 edition = "2018"
