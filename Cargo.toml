@@ -1,0 +1,16 @@
+[package]
+name = "weather"
+version = "0.1.0"
+authors = ["aaqib-kk <aqib.khan.25@iiee.edu.pk>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# async-std = "1.6.2"
+# reqwest = { version = "0.10", features = ["blocking", "json"] }
+# tokio = { version = "0.2", features = ["full"] }
+# hyper = "0.13"
+rocket = "0.4.5"
+reqwest = "0.9.22"
+rustc-serialize = "0.3.24"
